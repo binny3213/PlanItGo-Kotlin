@@ -9,7 +9,7 @@ This is a travel planning app built using Kotlin, designed to help users organiz
 - **Personal Translator**: Built-in translation tool to help you communicate with locals during your trip.
 - **Favorite Attractions**: Save and organize your favorite attractions for easy access and future planning.
 
-### Language
+### Language 🌐
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
 </div>
@@ -42,3 +42,10 @@ Feel free to check out the screenshots and video demo below to see the app in ac
 ![Screenshot3](photo3.png)
 
 🎥 [Watch the demo video](https://drive.google.com/file/d/1WHyJrk4K8rVNoNmudnbr-QRztIfo7Iuy/view?usp=drive_link)
+
+### UML Design 📈
+
+![image](https://github.com/user-attachments/assets/44560ea9-990b-4a8f-8085-9564d30e838a)
+
+![image](https://github.com/user-attachments/assets/5212b8e2-3d38-4b64-8ccc-7a344f0de735)
+
