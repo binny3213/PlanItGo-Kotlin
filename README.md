@@ -1,6 +1,7 @@
 # Plan It Go App 🌍✈️
 
 This is a travel planning app built using Kotlin, designed to help users organize their trips and discover attractions around the world. It offers a personalized and convenient way to plan trips, keep track of activities, and explore new destinations!
+<hr>
 
 ### Features 🚀
 - **Create New Trip Destinations**: Add new destinations for your travel plans.
@@ -36,12 +37,15 @@ This project was developed by me and two other collaborators, working together t
 
 ### Demo 🎥
 Feel free to check out the screenshots and video demo below to see the app in action!
+<hr>
 
 ![Screenshot1](photo1.png)
 ![Screenshot2](photo2.png)
 ![Screenshot3](photo3.png)
+<hr>
 
 🎥 [Watch the demo video](https://drive.google.com/file/d/1WHyJrk4K8rVNoNmudnbr-QRztIfo7Iuy/view?usp=drive_link)
+<hr>
 
 ### UML Design 📈
 
