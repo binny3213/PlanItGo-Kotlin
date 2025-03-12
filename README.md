@@ -35,16 +35,19 @@ The app integrates data from multiple APIs to provide accurate and up-to-date in
 ### Team 👩‍💻👨‍💻👩‍💻
 This project was developed by me and two other collaborators, working together to bring this app to life!
 
+<hr>
+
 ### Demo 🎥
 Feel free to check out the screenshots and video demo below to see the app in action!
-<hr>
+
 
 ![Screenshot1](photo1.png)
 ![Screenshot2](photo2.png)
 ![Screenshot3](photo3.png)
 <hr>
 
-🎥 [Watch the demo video](https://drive.google.com/file/d/1WHyJrk4K8rVNoNmudnbr-QRztIfo7Iuy/view?usp=drive_link)
+### Demo Video 🎥 
+[Watch the demo video](https://drive.google.com/file/d/1WHyJrk4K8rVNoNmudnbr-QRztIfo7Iuy/view?usp=drive_link)
 <hr>
 
 ### UML Design 📈
