@@ -47,7 +47,7 @@ Feel free to check out the screenshots and video demo below to see the app in ac
 <hr>
 
 ### Demo Video 🎥 
-[Watch the demo video](https://drive.google.com/file/d/1WHyJrk4K8rVNoNmudnbr-QRztIfo7Iuy/view?usp=drive_link)
+[Watch the demo video](https://youtube.com/shorts/kTG7ZrrdTCY?feature=share)
 <hr>
 
 ### UML Design 📈
